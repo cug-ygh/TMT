@@ -75,31 +75,11 @@ Our uses feature files that are organized as follows:
 ```
 ## 3. Citation
 
-- [CH-SIMS: A Chinese Multimodal Sentiment Analysis Dataset with Fine-grained Annotations of Modality](https://www.aclweb.org/anthology/2020.acl-main.343/)
-- [Learning Modality-Specific Representations with Self-Supervised Multi-Task Learning for Multimodal Sentiment Analysis](https://arxiv.org/abs/2102.04830)
-- [M-SENA: An Integrated Platform for Multimodal Sentiment Analysis]()
 
 Please cite our paper if you find our work useful for your research:
 
-```
-@inproceedings{yu2020ch,
-  title={CH-SIMS: A Chinese Multimodal Sentiment Analysis Dataset with Fine-grained Annotation of Modality},
-  author={Yu, Wenmeng and Xu, Hua and Meng, Fanyang and Zhu, Yilin and Ma, Yixiao and Wu, Jiele and Zou, Jiyun and Yang, Kaicheng},
-  booktitle={Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics},
-  pages={3718--3727},
-  year={2020}
-}
-```
 
-```
-@inproceedings{yu2021learning,
-  title={Learning Modality-Specific Representations with Self-Supervised Multi-Task Learning for Multimodal Sentiment Analysis},
-  author={Yu, Wenmeng and Xu, Hua and Yuan, Ziqi and Wu, Jiele},
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-  volume={35},
-  number={12},
-  pages={10790--10797},
-  year={2021}
-}
-```
+
+
+
 
