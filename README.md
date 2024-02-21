@@ -73,7 +73,7 @@ Our uses feature files that are organized as follows:
     "test": {***},                   # same as "train"
 }
 ```
-## 5. Citation
+## 3. Citation
 
 - [CH-SIMS: A Chinese Multimodal Sentiment Analysis Dataset with Fine-grained Annotations of Modality](https://www.aclweb.org/anthology/2020.acl-main.343/)
 - [Learning Modality-Specific Representations with Self-Supervised Multi-Task Learning for Multimodal Sentiment Analysis](https://arxiv.org/abs/2102.04830)
