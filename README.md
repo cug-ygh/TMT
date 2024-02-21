@@ -23,7 +23,7 @@ At present, only the model and test code are uploaded, and the training code wil
   python test.py
   python test_acc5.py
 
-- For more detailed usage, please refer to [APIs](https://github.com/thuiar/MMSA/wiki/APIs).
+- For more detailed usage, please contact ygh2@cug.edu.cn.
 
 
 
