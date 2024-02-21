@@ -7,7 +7,7 @@ emotion heterogeneity features and mutually fuse them for more comprehensive mul
 
 - Train, test and compare in a unified framework.
 - Supports Our TMT model.
-- Supports 3 MSA datasets: [MOSI](https://ieeexplore.ieee.org/abstract/document/7742221), [MOSEI](https://aclanthology.org/P18-1208.pdf), and [CH-SIMS](https://aclanthology.org/2020.acl-main.343/).
+- Supports 3 datasets: [MOSI](https://ieeexplore.ieee.org/abstract/document/7742221), [MOSEI](https://aclanthology.org/P18-1208.pdf), and [CH-SIMS](https://aclanthology.org/2020.acl-main.343/).
 - Easy to use, provides Python APIs and commandline tools.
 - Experiment with fully customized multimodal features extracted by [MMSA-FET](https://github.com/thuiar/MMSA-FET) toolkit.
 
