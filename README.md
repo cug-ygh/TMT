@@ -16,7 +16,7 @@ emotion heterogeneity features and mutually fuse them for more comprehensive mul
 > **Note:** From version 2.0, we packaged the project and uploaded it to PyPI in the hope of making it easier to use. If you don't like the new structure, you can always switch back to `v_1.0` branch. 
 
 ### 1.1 Use Python API
-
+At present, only the model and test code are uploaded, and the training code will be released after the paper is published.
 - Import and use in any python file:
 
   ```python
