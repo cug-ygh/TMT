@@ -1,7 +1,7 @@
 # TMT
 
 A novel Token-disentangling Mutual Transformer(TMT) for multimodal emotion recognition. The TMT can effectively disentangle inter-modality emotion consistency features and intra-modality
-emotion heterogeneity features and mutually fuse them for more comprehensive multimodal emotion representations by introducing two primary modules, namely multimodal emotion Token disentanglement and Token mutual Transformer. 
+emotion heterogeneity features and mutually fuse them for more comprehensive multimodal emotion representations by introducing two primary modules, namely multimodal emotion Token disentanglement and Token mutual Transformer. The Models folder contains our overall TMT model code, and the subNets folder contains the Transforme structure used in it.
 
 ### Features
 
