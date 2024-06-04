@@ -79,14 +79,23 @@ Our uses feature files that are organized as follows:
 Please cite our paper if you find our work useful for your research:
 
 @article{YIN2024108348,
+
 title = {Token-disentangling Mutual Transformer for multimodal emotion recognition},
+
 journal = {Engineering Applications of Artificial Intelligence},
+
 volume = {133},
+
 pages = {108348},
+
 year = {2024},
+
 issn = {0952-1976},
+
 doi = {https://doi.org/10.1016/j.engappai.2024.108348},
+
 url = {https://www.sciencedirect.com/science/article/pii/S0952197624005062},
+
 }
 
 
