@@ -78,6 +78,20 @@ Our uses feature files that are organized as follows:
 
 Please cite our paper if you find our work useful for your research:
 
+@article{YIN2024108348,
+title = {Token-disentangling Mutual Transformer for multimodal emotion recognition},
+journal = {Engineering Applications of Artificial Intelligence},
+volume = {133},
+pages = {108348},
+year = {2024},
+issn = {0952-1976},
+doi = {https://doi.org/10.1016/j.engappai.2024.108348},
+url = {https://www.sciencedirect.com/science/article/pii/S0952197624005062},
+author = {Guanghao Yin and Yuanyuan Liu and Tengfei Liu and Haoyu Zhang and Fang Fang and Chang Tang and Liangxiao Jiang},
+keywords = {Multimodal emotion recognition, Multimodal emotion Token disentanglement, Token mutual Transformer, Token separation learning, Bi-directional query learning},
+abstract = {Multimodal emotion recognition presents a complex challenge, as it involves the identification of human emotions using various modalities such as video, text, and audio. Existing methods focus mainly on the fusion information from multimodal data, but ignore the interaction of the modality-specific heterogeneity features that contribute differently to emotions, leading to sub-optimal results. To tackle this challenge, we propose a novel Token-disentangling Mutual Transformer (TMT) for robust multimodal emotion recognition, by effectively disentangling and interacting inter-modality emotion consistency features and intra-modality emotion heterogeneity features. Specifically, the TMT consists of two main modules: multimodal emotion Token disentanglement and Token mutual Transformer. In the multimodal emotion Token disentanglement, we introduce a Token separation encoder with an elaborated Token disentanglement regularization, which effectively disentangle the inter-modality emotion consistency feature Token from each intra-modality emotion heterogeneity feature Token; consequently, the emotion-related consistency and heterogeneity information can be performed independently and comprehensively. Furthermore, we devise the Token mutual Transformer with two cross-modal encoders to interact and fuse the disentangled feature Tokens by using bi-directional query learning, which delivers more comprehensive and complementary multimodal emotion representations for multimodal emotion recognition. We evaluate our model on three popular three-modality emotion datasets, namely CMU-MOSI, CMU-MOSEI, and CH-SIMS, and the experimental results affirm the superior performance of our model compared to state-of-the-art methods, achieving state-of-the-art recognition performance. Evaluation Codes and models are released at https://github.com/cug-ygh/TMT.}
+}
+
 
 
 
